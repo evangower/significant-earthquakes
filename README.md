@@ -9,7 +9,7 @@ Excerpt from [Wikipedia:](https://en.wikipedia.org/wiki/Earthquake)
 > Earthquakes are caused mostly by rupture of geological faults but also by other events such as volcanic activity, landslides, mine blasts, and nuclear tests. An earthquake's point of initial rupture is called its hypocenter or focus. The epicenter is the point at ground level directly above the hypocenter.
 
 ## Data Collection
-The dataset is sourced from the United States Geological Survey [(USGS)](https://www.usgs.gov/programs/earthquake-hazards/earthquakes), which maintains a global catalog of earthquake information. The dataset includes earthquakes from all regions of the world, from the most seismically active regions like the Pacific Ring of Fire to less active regions like Europe and Africa.
+The creator of the dataset from [Kaggle](https://www.kaggle.com/datasets/usamabuttar/significant-earthquakes) collected the data from the United States Geological Survey [(USGS)](https://www.usgs.gov/programs/earthquake-hazards/earthquakes), which maintains a global catalog of earthquake information. The dataset includes earthquakes from all regions of the world, from the most seismically active regions like the Pacific Ring of Fire to less active regions like Europe and Africa.
 
 ## Visualizations
 
