@@ -14,7 +14,7 @@ The creator of the dataset from [Kaggle](https://www.kaggle.com/datasets/usamabu
 ## Visualizations
 
 ### [Earthquakes since 1900](https://github.com/evangower/significant-earthquakes/blob/main/code/global-eathquakes-since-1900-map.R)
-Map of every earthquake with a magnitude above 5 since 1900. Somme countries are alomst covered in earthquake points.
+Map of every earthquake with a magnitude above 5 since 1900. Some countries are almost covered in earthquake points.
 
 ![plot](https://github.com/evangower/significant-earthquakes/blob/main/plots/global-earthquakes-since-1900-map.png)
 
